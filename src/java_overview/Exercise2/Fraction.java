@@ -80,7 +80,7 @@ public class Fraction {
   }
 
   public boolean isPositiveFraction() {
-    return numerator * denominator > 0 || numerator == 0;
+    return numerator * denominator > 0;
   }
 
   public boolean isZeroFraction() {
