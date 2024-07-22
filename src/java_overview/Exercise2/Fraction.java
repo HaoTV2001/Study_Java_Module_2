@@ -3,6 +3,7 @@ package java_overview.Exercise2;
 import java.util.Scanner;
 
 public class Fraction {
+
   int numerator;
   int denominator;
 
@@ -49,7 +50,8 @@ public class Fraction {
 
   public Fraction sum(Fraction anotherFraction) {
     Fraction result = new Fraction();
-    result.numerator = this.numerator * anotherFraction.denominator + anotherFraction.numerator * this.denominator;
+    result.numerator =
+        this.numerator * anotherFraction.denominator + anotherFraction.numerator * this.denominator;
     result.denominator = this.denominator * anotherFraction.denominator;
     result.shortenFractions();
     return result;
@@ -57,7 +59,8 @@ public class Fraction {
 
   public Fraction subtract(Fraction anotherFraction) {
     Fraction result = new Fraction();
-    result.numerator = this.numerator * anotherFraction.denominator - anotherFraction.numerator * this.denominator;
+    result.numerator =
+        this.numerator * anotherFraction.denominator - anotherFraction.numerator * this.denominator;
     result.denominator = this.denominator * anotherFraction.denominator;
     result.shortenFractions();
     return result;
