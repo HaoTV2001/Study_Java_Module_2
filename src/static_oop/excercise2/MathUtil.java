@@ -18,9 +18,8 @@ public class MathUtil {
     if (b == 0) {
       System.out.println("Khong the chia cho 0!!!");
       return 0;
-    } else {
-      return a / b;
     }
+    return a / b;
   }
 
 }
