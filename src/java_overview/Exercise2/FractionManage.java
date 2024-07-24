@@ -1,6 +1,6 @@
 package java_overview.Exercise2;
 
-public class FractionManagement {
+public class FractionManage {
 
   public static void main(String[] args) {
     Fraction fraction_1 = new Fraction();
