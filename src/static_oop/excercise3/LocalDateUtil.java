@@ -1,4 +1,4 @@
-package static_oop.Excercise3;
+package static_oop.excercise3;
 
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;

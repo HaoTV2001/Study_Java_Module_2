@@ -1,4 +1,4 @@
-package contructor_accessmodifier.Excercise2;
+package contructor_accessmodifier.excercise2;
 
 public class TimeManager {
   public static void main(String[] args) {

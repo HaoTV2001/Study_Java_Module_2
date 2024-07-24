@@ -1,4 +1,4 @@
-package static_oop.Excercise1;
+package static_oop.excercise1;
 
 public class StudentManager {
   public static void main(String[] args) {

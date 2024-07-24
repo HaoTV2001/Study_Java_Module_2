@@ -1,4 +1,4 @@
-package contructor_accessmodifier.Excercise3;
+package contructor_accessmodifier.excercise3;
 
 public class StudentManager {
   public static void main(String[] args) {

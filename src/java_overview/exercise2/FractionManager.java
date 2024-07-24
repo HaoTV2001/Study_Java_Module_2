@@ -1,4 +1,4 @@
-package java_overview.Exercise2;
+package java_overview.exercise2;
 
 public class FractionManager {
 

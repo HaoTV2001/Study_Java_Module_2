@@ -1,4 +1,4 @@
-package java_overview.Exercise1;
+package java_overview.exercise1;
 
 public class StudentManager {
 

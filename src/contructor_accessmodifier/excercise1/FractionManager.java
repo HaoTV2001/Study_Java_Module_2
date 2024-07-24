@@ -1,4 +1,4 @@
-package contructor_accessmodifier.Excercise1;
+package contructor_accessmodifier.excercise1;
 
 public class FractionManager {
   public static void main(String[] args) {

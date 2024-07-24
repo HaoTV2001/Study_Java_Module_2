@@ -1,4 +1,4 @@
-package static_oop.Excercise2;
+package static_oop.excercise2;
 
 public class MathUtil {
 
